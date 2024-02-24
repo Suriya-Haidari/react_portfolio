@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.77ffef53.css",
+    "main.js": "/react_portfolio/static/js/main.01303385.js",
+    "static/js/787.4729052c.chunk.js": "/react_portfolio/static/js/787.4729052c.chunk.js",
+    "static/media/my-img.jpg": "/react_portfolio/static/media/my-img.8f4f5f8e29a91404b487.jpg",
+    "static/media/me.jpg": "/react_portfolio/static/media/me.3d69b4a66c038fd0b84f.jpg",
+    "static/media/carstore.png": "/react_portfolio/static/media/carstore.2925e3a2c5ac3b493e21.png",
+    "static/media/graduated.png": "/react_portfolio/static/media/graduated.35d35ede3c38ed16ce19.png",
+    "static/media/Resume.docx": "/react_portfolio/static/media/Resume.a2b0e6e6a5bebdca58f3.docx",
+    "static/media/expensessitem.png": "/react_portfolio/static/media/expensessitem.72feb94e428a90d85463.png",
+    "static/media/rockpaper.png": "/react_portfolio/static/media/rockpaper.ca89ccd4c47f2e30c4db.png",
+    "static/media/guessnumber.png": "/react_portfolio/static/media/guessnumber.dcdc574605a5cb5c827e.png",
+    "static/media/simon.png": "/react_portfolio/static/media/simon.c485cc8b63257d952518.png",
+    "static/media/slick.svg": "/react_portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react_portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react_portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react_portfolio/index.html",
+    "main.77ffef53.css.map": "/react_portfolio/static/css/main.77ffef53.css.map",
+    "main.01303385.js.map": "/react_portfolio/static/js/main.01303385.js.map",
+    "787.4729052c.chunk.js.map": "/react_portfolio/static/js/787.4729052c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ffef53.css",
+    "static/js/main.01303385.js"
+  ]
+}
