@@ -1,0 +1,17 @@
+{
+  "about": {
+    "getToKnow": "Tanımak İçin",
+    "aboutMe": "Hakkımda",
+    "experience": "Frontend Geliştirici",
+    "experienceYears": "+1 yıl öğrenme deneyimi",
+    "workexperience": "İş Deneyimi",
+    "have": "Yok",
+    "project": "Proje",
+    "completedProjects": "10+'dan fazla tamamlanan",
+    "description": "Programlamaya ve web tasarımına ilgim var. Uzmanlık alanım, Full Stack geliştirme ve web tasarımında bulunuyor. Deneyimim HTML, CSS, JavaScript, React çatısı ve Bootstrap ile çalışmayı içerir. Heyecan verici yeni projelerde işbirliği yapmaya hazırım. :)",
+    "achievements": "Başarılar",
+    "timeline": "Zaman Çizelgesi",
+    "download": "Özgeçmişi İndir",
+    "Hide": "Zaman Çizelgesini Gizle"
+  }
+}

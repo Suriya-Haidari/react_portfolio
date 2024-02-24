@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "h2": "Benimle İletişime Geçin",
+    "h5_1": "Benimle İletişime Geçin",
+    "h4_2": "E-posta",
+    "h4_3": "Telegram",
+    "a_text_1": "Mesaj gönder",
+    "a_text_2": "Mesaj gönder",
+    "button_text": "Harita",
+    "form_name_placeholder": "Tam adınız",
+    "form_email_placeholder": "E-posta adresiniz",
+    "form_message_placeholder": "Mesajınız",
+    "form_submit_button": "Mesaj gönder",
+    "Mylocation": "Konumum"
+  }
+}

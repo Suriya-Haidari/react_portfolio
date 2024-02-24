@@ -1,0 +1,122 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  backdrop-filter: blur(7px);
+  animation: slideTop 1s ease forwards;
+  border: none;
+  height: 4rem;
+  border-radius: 2rem;
+}
+
+@keyframes slideRight {
+  0% {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+    transform: rotate(90deg);
+  }
+}
+
+@keyframes slideTop {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+nav a.active {
+  background: var(--color-primary);
+  color: var(--color-white);
+  border-radius: 2rem;
+}
+.logo-icon {
+  position: fixed;
+  opacity: 0;
+  top: 0.4rem;
+  left: 2rem;
+  transform: rotate(90deg);
+  font-size: 2rem;
+  animation: slideRight 1s ease forwards;
+  z-index: 3;
+}
+
+nav li {
+  margin-top: 0.8rem;
+}
+nav a {
+  border-radius: 2rem;
+  padding: 1rem;
+  top: 1rem;
+  font-size: 1.5rem;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  border: none;
+  position: relative;
+}
+
+.item {
+  margin-right: 20px;
+  font-size: 20px;
+  color: var(--color-white);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.btnn {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  padding: 5px;
+  color: #000;
+  font-size: 18px;
+}
+
+@media screen and (max-width: 500px) {
+  .list {
+    flex-direction: column;
+    height: 25rem;
+    position: relative;
+    background: rgba(47, 70, 73, 0.834);
+    color: var(--color-white);
+    border-radius: 0rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-left: 10rem;
+  }
+  nav {
+    background: transparent;
+    backdrop-filter: blur(0);
+  }
+  nav a {
+    color: var(--color-white);
+  }
+  nav a.active {
+    background: var(--color-white);
+    color: rgba(47, 70, 73, 0.834);
+  }
+
+  .item {
+    text-align: center;
+    margin-right: 0px;
+    padding: 2px 0;
+  }
+
+  .btnn {
+    display: block;
+  }
+}

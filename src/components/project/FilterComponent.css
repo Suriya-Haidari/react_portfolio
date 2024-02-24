@@ -1,0 +1,48 @@
+.filter__container {
+  width: max-content;
+  padding: 1rem;
+  border: 1px solid var(--color-primary);
+  border-radius: 2rem;
+  background: var(--color-bg-variant);
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-top: -2.2rem;
+  margin-bottom: -6rem;
+  margin-right: auto;
+  transition: var(--transition);
+}
+
+.filter__container:hover {
+  background: var(--color-bg);
+  transition: var(--transition);
+}
+
+.filter__option {
+  border: 1px solid;
+  border-radius: 0.5rem;
+  background: var(--color-primary);
+  padding: 1rem;
+  width: 4rem;
+  height: 4rem;
+  margin: 0.2rem;
+  transition: var(--transition);
+}
+.filter__container button:hover {
+  background: var(--color-white);
+  cursor: pointer;
+  color: var(--color-bg);
+  transition: var(--transition);
+}
+@media screen and (max-width: 600px) {
+  .filter__container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .filter__container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}

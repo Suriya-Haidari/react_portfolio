@@ -1,0 +1,22 @@
+{
+  "project": {
+    "title1": "Ausgabenprojekte",
+    "title2": "Ratenzahlungsspiel-Projekt",
+    "title3": "Autohaus-Projekt",
+    "title4": "Stein Papier Schere Spiel",
+    "title5": "Simon Spiel",
+    "text1": "In diesem Projekt können Sie Elemente hinzufügen und nach bestimmten Jahren filtern. Es gibt auch ein Balkendiagramm, das den Prozentsatz der Elemente jedes Jahres anzeigt.",
+    "text2": "Guess number ist ein Spiel, bei dem Sie die vom Computer generierte Zahl erraten können. Sie haben 20 Versuche, um die richtige Zahl zu erraten.",
+    "text3": "Dies zeigt die Fahrzeugdetails, einschließlich Bilder, Jahr und Name... Sie können also die Fahrzeugdetails anzeigen, indem Sie auf die jeweiligen Schaltflächen klicken.",
+    "text4": "Dies ist ein Spiel, bei dem der Computer eine von 3 Optionen generiert und Sie eine der Schaltflächen auswählen müssen, um das Spiel zu spielen und das Ergebnis zu sehen. Sie können gewinnen, verlieren oder unentschieden gegen den Computer spielen.",
+    "text5": "Dies ist ein Spiel, das Sie fortsetzen können, bis Sie die richtige Farbe wählen, die vom Computer generiert wird.",
+    "h1": "Mein Portfolio",
+    "h2": "Portfolio",
+    "All": "Alle",
+    "WebDevelopment": "Webentwicklung",
+    "GameDevelopment": "Spieleentwicklung",
+    "SearchProject": "Projekt suchen...",
+    "Previous": "Vorherige",
+    "Next": "Nächste"
+  }
+}

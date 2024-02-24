@@ -1,0 +1,17 @@
+{
+  "about": {
+    "getToKnow": "Apprendre à connaître",
+    "aboutMe": "À propos de moi",
+    "experience": "Développeur Frontend",
+    "experienceYears": "+1 an d'expérience d'apprentissage",
+    "workexperience": "Expérience de travail",
+    "have": "Ne pas avoir",
+    "project": "Projet",
+    "completedProjects": "10+ projets terminés",
+    "description": "Je suis passionné(e) par la programmation et la conception web. Mon expertise se situe dans le développement Full Stack et la conception web. Mon expérience comprend HTML, CSS, JavaScript, le framework React et l'utilisation de Bootstrap. Je suis prêt(e) à collaborer sur de nouveaux projets passionnants. :)",
+    "achievements": "Réalisations",
+    "timeline": "Chronologie",
+    "download": "Télécharger le CV",
+    "Hide": "Masquer la chronologie"
+  }
+}

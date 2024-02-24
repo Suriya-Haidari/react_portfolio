@@ -1,0 +1,17 @@
+{
+  "about": {
+    "getToKnow": "Kennenlernen",
+    "aboutMe": "Über mich",
+    "experience": "Frontend Entwickler",
+    "experienceYears": "+1 Jahr Lernerfahrung",
+    "workexperience": "Berufserfahrung",
+    "have": "Kein",
+    "project": "Projekt",
+    "completedProjects": "10+ abgeschlossen",
+    "description": "Ich bin leidenschaftlich in der Programmierung und Webdesign. Mein Fachgebiet umfasst Full Stack Entwicklung und Webdesign. Meine Erfahrung umfasst HTML, CSS, JavaScript, das React-Framework und die Arbeit mit Bootstrap. Ich bin bereit, an spannenden neuen Projekten mitzuwirken. :)",
+    "achievements": "Erfolge",
+    "timeline": "Zeitleiste",
+    "download": "Lebenslauf herunterladen",
+    "Hide": "Zeitleiste ausblenden"
+  }
+}

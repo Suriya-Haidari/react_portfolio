@@ -1,0 +1,147 @@
+#portfolio {
+  padding: 1rem;
+}
+#projects {
+  margin-top: 7rem;
+}
+.portfolio__item h3 {
+  margin: 1.2rem 0 0;
+  text-align: center;
+  color: var(--color-primary);
+}
+.portfolio__container p {
+  font-size: 0.8rem;
+  padding: 1rem 0.2rem 1rem 1rem;
+}
+.portfolio__item-cta {
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
+.portfolio__item {
+  background: var(--color-bg-variant);
+  width: 19rem;
+  border-radius: 1rem;
+  transition: var(--transition);
+  border: 1px solid var(--color-primary);
+}
+.portfolio__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-direction: row;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.portfolio__item-image {
+  width: fit-content;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
+.paginationn {
+  display: flex;
+  transition: var(--transition);
+  justify-content: center;
+  background: var(--color-bg-variant);
+  margin: 35rem auto 0 auto;
+  position: absolute;
+  border-radius: 2rem;
+  width: max-content;
+}
+.pagination:hover {
+  background: var(--color-bg);
+  border-color: var(--color-white);
+  transition: var(--transition);
+}
+
+.pagination li {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.pagination li.active {
+  background-color: var(--color-primary);
+  color: var(--color-bg);
+  border-radius: 0.5rem;
+}
+.pagination li.active a {
+  color: var(--color-bg);
+}
+ul {
+  border: 1px solid var(--color-primary);
+  border-radius: 2rem;
+}
+
+.searchbar-input {
+  width: max-content;
+  border: 1px solid var(--color-primary);
+  background-color: var(--color-bg-variant);
+  transition: var(--transition);
+  display: inline;
+  margin-top: 1rem;
+  margin-left: 4rem;
+}
+.searchbar-input:hover {
+  background: var(--color-bg);
+  transition: var(--transition);
+}
+.autocomplete-list {
+  width: 14rem;
+  padding-left: 1rem;
+  margin-left: 4rem;
+}
+.autocomplete-list li {
+  margin: 0.2rem;
+}
+.autocomplete-list li:hover {
+  color: var(--color-primary);
+}
+
+/* Rating Component Styles  */
+
+.rating__star.active {
+  color: var(--color-primary);
+}
+
+.rating__star {
+  display: inline-block;
+  font-size: 24px;
+  color: #aaa;
+  cursor: pointer;
+  margin-left: 0.1rem;
+}
+
+.rating__star.inactive {
+  pointer-events: none;
+  color: #aaa;
+}
+@media screen and (max-width: 350px) {
+  .paginationn {
+    margin-top: 45rem;
+    margin-left: 5rem;
+  }
+}
+@media screen and (max-width: 278px) {
+  .paginationn {
+    margin-top: 60rem;
+    margin-left: 6rem;
+  }
+  .pagination {
+    width: 18rem;
+  }
+}
+@media screen and (max-width: 198px) {
+  .paginationn {
+    margin-left: 10rem;
+  }
+}

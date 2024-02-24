@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "h2": "联系我",
+    "h5_1": "联系方式",
+    "h4_2": "电子邮件",
+    "h4_3": "Telegram",
+    "a_text_1": "发送消息",
+    "a_text_2": "发送消息",
+    "button_text": "地图",
+    "form_name_placeholder": "您的全名",
+    "form_email_placeholder": "您的电子邮件",
+    "form_message_placeholder": "您的消息",
+    "form_submit_button": "发送消息",
+    "Mylocation": "我的位置"
+  }
+}

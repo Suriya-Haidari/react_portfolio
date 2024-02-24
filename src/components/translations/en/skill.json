@@ -1,0 +1,11 @@
+{
+  "skill": {
+    "heading1": "My Skills",
+    "heading2": "What skills I have",
+    "HTML": "HTML",
+    "CSS": "CSS",
+    "Bootstrap": "Bootstrap",
+    "JavaScript": "JavaScript",
+    "React": "React"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "about": {
+    "getToKnow": "Get To Know",
+    "aboutMe": "About me",
+    "experience": "Frontend Developer",
+    "experienceYears": "+1 year learning experience",
+    "workexperience": "Work Experience",
+    "have": "Don't have",
+    "project": "Project",
+    "completedProjects": "10+ completed",
+    "description": " I'm passionate about programming and web design. My expertise lies in Full Stack development and web design. My experience includes HTML, CSS, JavaScript, React framework, and working with Bootstrap. I'm ready to collaborate on exciting new projects. :)",
+    "achievements": "Achievements",
+    "timeline": "My Timeline",
+    "download": "Download CV",
+    "Hide": "Hide Timeline"
+  }
+}

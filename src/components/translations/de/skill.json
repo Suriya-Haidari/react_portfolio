@@ -1,0 +1,11 @@
+{
+  "skill": {
+    "heading1": "Meine Fähigkeiten",
+    "heading2": "Welche Fähigkeiten ich habe",
+    "HTML": "HTML",
+    "CSS": "CSS",
+    "Bootstrap": "Bootstrap",
+    "JavaScript": "JavaScript",
+    "React": "React"
+  }
+}

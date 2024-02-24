@@ -1,0 +1,17 @@
+{
+  "about": {
+    "getToKnow": "了解",
+    "aboutMe": "关于我",
+    "experience": "前端开发人员",
+    "experienceYears": "+1年学习经验",
+    "workexperience": "工作经验",
+    "have": "没有",
+    "project": "项目",
+    "completedProjects": "10+已完成",
+    "description": "我热衷于编程和网页设计。我的专长是全栈开发和网页设计。我的经验涵盖HTML、CSS、JavaScript、React框架以及使用Bootstrap。我愿意参与令人兴奋的新项目。:)",
+    "achievements": "成就",
+    "timeline": "时间线",
+    "download": "下载简历",
+    "Hide": "隐藏时间线"
+  }
+}

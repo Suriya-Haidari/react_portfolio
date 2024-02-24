@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "h2": "Kontaktieren Sie mich",
+    "h5_1": "Kontaktieren Sie mich",
+    "h4_2": "E-Mail",
+    "h4_3": "Telegram",
+    "a_text_1": "Nachricht senden",
+    "a_text_2": "Nachricht senden",
+    "button_text": "Karte",
+    "form_name_placeholder": "Ihr vollständiger Name",
+    "form_email_placeholder": "Ihre E-Mail",
+    "form_message_placeholder": "Ihre Nachricht",
+    "form_submit_button": "Nachricht senden",
+    "Mylocation": "Mein Standort"
+  }
+}

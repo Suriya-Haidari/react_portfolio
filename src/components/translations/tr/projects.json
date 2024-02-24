@@ -1,0 +1,22 @@
+{
+  "project": {
+    "title1": "Gider Kalemi Projeleri",
+    "title2": "Tahmin Sayı Oyunu Projesi",
+    "title3": "Araba Mağazası Projesi",
+    "title4": "Taş Kağıt Makas Oyunu",
+    "title5": "Simon Oyunu",
+    "text1": "Bu proje içinde öğeler ekleyebilir ve belirli yıllara göre bunları filtreleyebilirsiniz. Ayrıca her yılın öğelerinin yüzdesini gösteren bir çubuk grafik de bulunmaktadır.",
+    "text2": "Guess number, bilgisayarın oluşturduğu sayıyı tahmin edebileceğiniz bir oyundur. Doğru sayıyı tahmin etmek için 20 şansınız vardır.",
+    "text3": "Bu, resimler, yıl ve isim içeren araba detaylarını gösterir... böylece her düğmeye tıklayarak araba detaylarını izleyebilirsiniz.",
+    "text4": "Bu, bilgisayarın 3 seçenekten birini ürettiği bir oyundur ve oyunu oynamak ve sonucu görmek için düğmelerden birini seçmelisiniz. Bilgisayarla kazanabilir, kaybedebilirveya berabere kalabilirsiniz.",
+    "text5": "Bu, bilgisayar tarafından üretilen doğru rengi seçene kadar devam edebileceğiniz bir oyundur.",
+    "h1": "Portfolyom",
+    "h2": "Portfolyo",
+    "All": "Hepsi",
+    "WebDevelopment": "Web Geliştirme",
+    "GameDevelopment": "Oyun Geliştirme",
+    "SearchProject": "Proje Ara...",
+    "Previous": "Önceki",
+    "Next": "Sonraki"
+  }
+}

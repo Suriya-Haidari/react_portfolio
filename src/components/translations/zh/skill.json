@@ -1,0 +1,11 @@
+{
+  "skill": {
+    "heading1": "我的技能",
+    "heading2": "我的技能",
+    "HTML": "HTML",
+    "CSS": "CSS",
+    "Bootstrap": "Bootstrap",
+    "JavaScript": "JavaScript",
+    "React": "React"
+  }
+}

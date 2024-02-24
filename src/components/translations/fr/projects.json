@@ -1,0 +1,22 @@
+{
+  "project": {
+    "title1": "Projets d'éléments de dépenses",
+    "title2": "Projet de jeu de devinette de nombre",
+    "title3": "Projet de magasin de voitures",
+    "title4": "Jeu de pierre-papier-ciseaux",
+    "title5": "Jeu Simon",
+    "text1": "Dans ce projet, vous pouvez ajouter des éléments et les filtrer par années spécifiques. Il y a également un diagramme à barres qui montre le pourcentage des éléments de chaque année.",
+    "text2": "Guess number est un jeu où vous pouvez deviner le nombre généré par l'ordinateur. Vous avez 20 chances pour deviner le bon nombre.",
+    "text3": "Ceci montre les détails de la voiture, y compris les images, l'année et le nom... donc vous pouvez voir les détails des voitures en cliquant sur chaque bouton.",
+    "text4": "C'est un jeu où l'ordinateur génère l'une des 3 options et vous devez choisir l'un des boutons pour jouer au jeu et voir le résultat, vous pouvez gagner, perdre ou faire match nul avec l'ordinateur.",
+    "text5": "C'est un jeu où vous pouvez continuer jusqu'à ce que vous puissiez choisir la bonne couleur générée par l'ordinateur.",
+    "h1": "Mon portfolio",
+    "h2": "Portfolio",
+    "All": "Tous",
+    "WebDevelopment": "Développement Web",
+    "GameDevelopment": "Développement de jeux",
+    "SearchProject": "Rechercher un projet...",
+    "Previous": "Précédent",
+    "Next": "Suivant"
+  }
+}
