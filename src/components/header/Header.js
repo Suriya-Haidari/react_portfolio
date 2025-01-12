@@ -1,5 +1,5 @@
 import "./header.css";
-import image from "../../assets/my-img.jpg";
+import image from "../../assets/profile.jpg";
 import HeaderSocials from "./HeaderSocials";
 import { BsArrowDown } from "react-icons/bs";
 import { useTranslation } from "react-i18next";
