@@ -30,7 +30,7 @@ export default function Header() {
           <BsArrowDown className="scroll__down-icon" />
         </a>
         <div className="img">
-          <img src={image} alt="MyPicture" className="myImage" />
+          <img src={image} alt="MyPicture" className="profiler" />
         </div>
       </header>
     </section>
